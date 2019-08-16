@@ -1,2 +1,2 @@
-# home
-just an aimless deployment for my VPS
+# Mickey Mouse Clubhouse
+Just An Aimless Deployment For My VPS.
